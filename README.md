@@ -8,4 +8,4 @@ You can play the game at: http://jonico.github.io/github-games/
 
 This fun open source game was cloned from: https://github.com/jakesgordon/javascript-tetris
 
-# Hi Hack-HPI Team - excited to be here :tada:
+# Hi Hack-Hasso Plattner Institut Hack Teams - excited to be here :tada:
